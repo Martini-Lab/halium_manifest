@@ -4,6 +4,12 @@ LineageOS
 Getting started
 ---------------
 
+#### NOTE
+* Everything i use is from
+* https://github.com/ubports-beryllium
+* https://gitlab.com/the-muppets/proprietary_vendor_xiaomi
+* https://github.com/Halium/android
+
 To get started with Android/LineageOS, you'll need to get
 familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
 
